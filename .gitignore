@@ -1,0 +1,23 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+
+# Chess Bot específicas
+stockfish.exe
+*.log
+bot_debug.txt
+debug_dom.html
+*.tmp
+
+# Visual Studio Code
+.vscode/
+
+# Git
+.git/
